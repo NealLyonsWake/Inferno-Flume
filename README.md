@@ -12,7 +12,7 @@ A 30-second trailer is available [here](https://youtu.be/A24MBC7iL74)
 
 ## Deployment
 
-Inferno Flume is deployed as an Android app (apk) on my [Itch.io page](https://waken-games.itch.io/inferno-flume).
+Inferno Flume is deployed as an Android app (apk) on [Itch.io](https://waken-games.itch.io/inferno-flume).
 
 
 ## Installation Instructions
